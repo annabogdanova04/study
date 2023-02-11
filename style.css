@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="uk"></html>
+<head>
+    <title>Типи тестування</title>
+    <style>
+        h1 {
+            background: #e0ffad;
+            color: green;
+            background-clip: text
+            border: solid 1px #0000;
+        }
+    </style>
+</head>
+<head>
+    <title> 4 рівні тестування</title>
+    <style>
+        h1 {
+            background: #e0ffad;
+            color: green;
+            background-clip: text   
+        }
+    </style>
+</head>
+<head>
+    <title>Зміна кольору тексту</title>
+    <style>
+        .colortext {
+            color: rgb(233, 7, 7);
+        }
+    </style>
+</head>
+     <body>
+ <h1>Типи тестування</h1>
+     <p>Визначають <span class="colortext">4 рівні тестування (Testing levels)</span> <b> програмного забезпечення: </b></p>
+<ol type="1">
+     <li>Модульне</li>
+     <li>Інтеграційне</li>
+     <li>Системне</li>
+     <li>Приймальне</li>
+</ol>
+    <img src="hw14.jpg">
+       </body>
+</html>
